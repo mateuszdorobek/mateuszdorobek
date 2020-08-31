@@ -19,8 +19,8 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/260px-Scikit_learn_logo_small.svg.png" alt="scikit" width="40" height="40"/>    
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1024px-Created_with_Matplotlib-logo.svg.png" alt="matplolib" width="40" height="40"/>    
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saxman96&layout=compact&hide=html" alt="saxman96" /> 
 </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saxman96&layout=compact&hide=html" alt="saxman96" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saxman96&show_icons=true" alt="saxman96" /></p>
 
