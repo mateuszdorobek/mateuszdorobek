@@ -22,8 +22,8 @@
 </p>
 <table>
   <tr>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saxman96&layout=compact&hide=html" alt="saxman96" height="100" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=saxman96&show_icons=true" alt="saxman96"  height="100" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saxman96&layout=compact&hide=html" alt="saxman96" height="150" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=saxman96&show_icons=true" alt="saxman96"  height="150" />
   </tr>
 </table>
 
