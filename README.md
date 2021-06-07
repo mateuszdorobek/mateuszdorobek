@@ -28,7 +28,7 @@
 </table>
 
 <p align="center">
-<a href="https://linkedin.com/in/mateuszdorobek" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mateuszdorobek" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/8081835" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="8081835" height="30" width="30" /></a>
-<a href="https://kaggle.com/mateuszdorobek" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="mateuszdorobek" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/mateuszdorobek" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="mateuszdorobek" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/8081835" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="8081835" height="35" width="35" /></a>
+<a href="https://kaggle.com/mateuszdorobek" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="mateuszdorobek" height="25" width="25" /></a>
 </p>
