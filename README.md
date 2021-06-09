@@ -2,13 +2,13 @@
 <h3 align="center">Data scientist passionate about jazz music 🎷</h3>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>  
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>  
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" alt="keras" width="40" height="40"/> 
-<img src="https://avatars2.githubusercontent.com/u/365630?s=200&v=4" alt="scikit" width="40" height="40"/>    
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1024px-Created_with_Matplotlib-logo.svg.png" alt="matplolib" width="40" height="40"/>    
+	<img src="https://tinyurl.com/2hhnufmj" height="50" title="python" alt="python"/>&nbsp;
+	<img src="https://tinyurl.com/j9u697re" height="50" title="tensorflow" alt="tensorflow"/>&nbsp;
+	<img src="https://tinyurl.com/mzjnnpxx" height="50" title="pytorch" alt="pytorch"/>&nbsp;
+	<img src="https://tinyurl.com/3ccbyhs8" height="50" title="keras" alt="keras"/>&nbsp;
+	<img src="https://tinyurl.com/5f6s5446" height="50" title="scikit" alt="scikit"/>&nbsp;
+	<img src="https://tinyurl.com/3n6vesnc" height="50" title="git" alt="git"/>&nbsp;
+	<img src="https://tinyurl.com/kj6dj7ww" height="50" title="matplotlib" alt="matplotlib"/>&nbsp;
 </p>
 
 <p align="left">  </p>
@@ -24,18 +24,18 @@
 
 <table>
   <tr>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saxman96&layout=compact&hide=html" alt="saxman96" height="150" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=saxman96&show_icons=true" alt="saxman96"  height="150" />
+    <img src="https://tinyurl.com/pmdcbacn" height="150" align="left"/>
+    <img src="https://tinyurl.com/5p3hhhv8" height="150" align="center"/>
   </tr>
 </table>
 
-<table border="0" style="border-collapse: collapse; width: 100%; border: 0px;">
-	<tbody>
-		<tr style="border: 0px;">
-			<td style="width: 33.3333%; text-align: left; vertical-align: bottom; border: 0px;"><a style="text-align: -webkit-center;"><img alt="saxman96" src="https://komarev.com/ghpvc/?username=saxman96" /></a></td>
-			<td style="width: 33.3333%; text-align: center; vertical-align: bottom; border: 0px;"><a style="text-align: -webkit-center;">&nbsp;</a><a href="https://linkedin.com/in/mateuszdorobek" style="text-align: -webkit-center;" target="blank"><img align="center" alt="mateuszdorobek" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="30" /></a><span style="text-align: -webkit-center;">&nbsp;</span><a href="https://stackoverflow.com/users/8081835" style="text-align: -webkit-center;" target="blank"><img align="center" alt="8081835" height="35" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" width="35" /></a><span style="text-align: -webkit-center;">&nbsp;</span><a href="https://kaggle.com/mateuszdorobek" style="text-align: -webkit-center;" target="blank"><img align="center" alt="mateuszdorobek" height="25" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="25" /></a></td>
-			<td style="width: 33.3333%; border: 0px;"><a href="https://stackoverflow.com/users/8081835/mateusz-dorobek" style="text-align: -webkit-center;"><img alt="profile for Mateusz Dorobek at Stack Overflow, Q&amp;A for professional and enthusiast programmers" height="58" src="https://stackoverflow.com/users/flair/8081835.png" style="float: right;" title="profile for Mateusz Dorobek at Stack Overflow, Q&amp;A for professional and enthusiast programmers" width="208" /></a></td>
-		</tr>
-	</tbody>
+<table>
+	<tr>
+		<a href="https://stackoverflow.com/users/8081835/mateusz-dorobek"><img src="https://tinyurl.com/2u2ezyfx" height="58"/a>&nbsp;&nbsp;
+		<a href="https://linkedin.com/in/mateuszdorobek"><img src="https://tinyurl.com/z9x3wwjt" height="40" /a>&nbsp;
+		<a href="https://stackoverflow.com/users/8081835"><img src="https://tinyurl.com/rpvyz98b" height="40" /a>
+		<a href="https://kaggle.com/mateuszdorobek"><img src="https://tinyurl.com/sm2vuszb" height="40" /a>
+		<a href="https://github.com/SaxMan96/SaxMan96" target="blank"><img src="https://tinyurl.com/4t4cvasd" height="25"/a>&nbsp;&nbsp;
+	</tr>
 </table>
 
