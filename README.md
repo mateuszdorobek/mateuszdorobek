@@ -29,7 +29,7 @@
   </tr>
 </table>
 
-<table border="1" style="border-collapse: collapse; width: 100%; border: 1px dashed;">
+<table border="0" style="border-collapse: collapse; width: 100%; border: 0px;">
 	<tbody>
 		<tr style="border: 0px;">
 			<td style="width: 33.3333%; text-align: left; vertical-align: bottom; border: 0px;"><a style="text-align: -webkit-center;"><img alt="saxman96" src="https://komarev.com/ghpvc/?username=saxman96" /></a></td>
