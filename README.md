@@ -29,9 +29,13 @@
   </tr>
 </table>
 
-<p align="center">
-  <a> <img align="left" src="https://komarev.com/ghpvc/?username=saxman96" alt="saxman96" /> </a>
-<a href="https://linkedin.com/in/mateuszdorobek" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="mateuszdorobek" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/8081835" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="8081835" height="35" width="35" /></a>
-<a href="https://kaggle.com/mateuszdorobek" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="mateuszdorobek" height="25" width="25" /></a>
-</p>
+<table border="1" style="border-collapse: collapse; width: 100%; border: 1px dashed;">
+	<tbody>
+		<tr style="border: 0px;">
+			<td style="width: 33.3333%; text-align: left; vertical-align: bottom; border: 0px;"><a style="text-align: -webkit-center;"><img alt="saxman96" src="https://komarev.com/ghpvc/?username=saxman96" /></a></td>
+			<td style="width: 33.3333%; text-align: center; vertical-align: bottom; border: 0px;"><a style="text-align: -webkit-center;">&nbsp;</a><a href="https://linkedin.com/in/mateuszdorobek" style="text-align: -webkit-center;" target="blank"><img align="center" alt="mateuszdorobek" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="30" /></a><span style="text-align: -webkit-center;">&nbsp;</span><a href="https://stackoverflow.com/users/8081835" style="text-align: -webkit-center;" target="blank"><img align="center" alt="8081835" height="35" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" width="35" /></a><span style="text-align: -webkit-center;">&nbsp;</span><a href="https://kaggle.com/mateuszdorobek" style="text-align: -webkit-center;" target="blank"><img align="center" alt="mateuszdorobek" height="25" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="25" /></a></td>
+			<td style="width: 33.3333%; border: 0px;"><a href="https://stackoverflow.com/users/8081835/mateusz-dorobek" style="text-align: -webkit-center;"><img alt="profile for Mateusz Dorobek at Stack Overflow, Q&amp;A for professional and enthusiast programmers" height="58" src="https://stackoverflow.com/users/flair/8081835.png" style="float: right;" title="profile for Mateusz Dorobek at Stack Overflow, Q&amp;A for professional and enthusiast programmers" width="208" /></a></td>
+		</tr>
+	</tbody>
+</table>
+
