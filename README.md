@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning about **Machine Learning in Business**
 
-- 📝 Checkout my portfolio [www.mateuszdorobek.pl](www.mateuszdorobek.pl)
+- 📝 Checkout my portfolio [www.mateuszdorobek.pl](https://www.mateuszdorobek.pl)
 
 - 💬 Ask me about **Neural Networks**
 
