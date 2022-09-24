@@ -17,10 +17,10 @@
   <a href="https://github.com/SaxMan96/"><img src="https://komarev.com/ghpvc/?username=SaxMan96&color=green&logo=github" alt="visitors" /></a>
   <a href="https://github.com/SaxMan96/"><img src="https://img.shields.io/github/followers/SaxMan96?logo=github" alt="followers" /></a>
   <a href="https://github.com/SaxMan96/"><img src="https://img.shields.io/github/stars/SaxMan96?affiliations=OWNER&logo=github" alt="stars" /></a>
-  <a href="https://stackoverflow.com/users/8081835/mateusz-dorobek"><img src="https://img.shields.io/stackexchange/stackoverflow/r/8081835?color=orange&label=reputation&logo=stackoverflow">
+  <a href="https://stackoverflow.com/users/8081835/mateusz-dorobek"><img src="https://img.shields.io/stackexchange/stackoverflow/r/8081835?color=orange&label=reputation&logo=stackoverflow"></a>
 </p>
 
-<p align="left">  </p>
+<!-- <p align="left">  </p> -->
 
 <!-- - 🔭 I’m currently working on [Jazz Embeddings](https://www.mateuszdorobek.pl/posts/2020/06/Jazz-chords-generation)
 
