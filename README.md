@@ -22,12 +22,15 @@
 
 <p align="left">  </p>
 
-- 🔭 I’m currently working on [Jazz Embeddings](https://www.mateuszdorobek.pl/posts/2020/06/Jazz-chords-generation)
+<!-- - 🔭 I’m currently working on [Jazz Embeddings](https://www.mateuszdorobek.pl/posts/2020/06/Jazz-chords-generation)
 
 - 📖 Check out my workshop on [Machine Learning in Python](https://kt.academy/workshop/machineLearningPython)
 
 - 📝 Checkout my portfolio [www.mateuszdorobek.pl](https://www.mateuszdorobek.pl)
-
+ -->
+ 
+Learn basics of Machine Learning in 1 day on my [Machine Learning in Python](https://kt.academy/workshop/machineLearningPython) workshop
+ 
 [<img src="https://raw.githubusercontent.com/SaxMan96/SaxMan96/master/ML%20daty.jpg">](https://kt.academy/workshop/machineLearningPython)
 
 <table>
