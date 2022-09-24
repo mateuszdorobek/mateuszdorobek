@@ -29,6 +29,9 @@
 - 📝 Checkout my portfolio [www.mateuszdorobek.pl](https://www.mateuszdorobek.pl)
 
 
+[![banner](https://raw.githubusercontent.com/SaxMan96/SaxMan96/master/ML%20daty.jpg)]([https://kt.academy/workshop/machineLearningPython])
+
+
 <table>
   <tr>
     <img src="https://tinyurl.com/pmdcbacn" height="150" align="left"/>
