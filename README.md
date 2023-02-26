@@ -14,9 +14,9 @@
 </p>
 
 <p align="left">
-  <a href="https://github.com/SaxMan96/"><img src="https://komarev.com/ghpvc/?username=SaxMan96&color=green&logo=github" alt="visitors" /></a>
-  <a href="https://github.com/SaxMan96/"><img src="https://img.shields.io/github/followers/SaxMan96?logo=github" alt="followers" /></a>
-  <a href="https://github.com/SaxMan96/"><img src="https://img.shields.io/github/stars/SaxMan96?affiliations=OWNER&logo=github" alt="stars" /></a>
+  <a href="https://github.com/mateuszdorobek/"><img src="https://komarev.com/ghpvc/?username=mateuszdorobek&color=green&logo=github" alt="visitors" /></a>
+  <a href="https://github.com/mateuszdorobek/"><img src="https://img.shields.io/github/followers/mateuszdorobek?logo=github" alt="followers" /></a>
+  <a href="https://github.com/mateuszdorobek/"><img src="https://img.shields.io/github/stars/mateuszdorobek?affiliations=OWNER&logo=github" alt="stars" /></a>
   <a href="https://stackoverflow.com/users/8081835/mateusz-dorobek"><img src="https://img.shields.io/stackexchange/stackoverflow/r/8081835?color=orange&label=reputation&logo=stackoverflow"></a>
 </p>
 
@@ -31,7 +31,7 @@
  
 <!-- <h2>Learn ML in just 1 day on my <a href="https://kt.academy/workshop/machineLearningPython">Machine Learning in Python</a> workshop.</h2>
  
-[<img src="https://raw.githubusercontent.com/SaxMan96/SaxMan96/master/ML%20daty.jpg">](https://kt.academy/workshop/machineLearningPython) -->
+[<img src="https://raw.githubusercontent.com/mateuszdorobek/mateuszdorobek/master/ML%20daty.jpg">](https://kt.academy/workshop/machineLearningPython) -->
 
 <table>
   <tr>
