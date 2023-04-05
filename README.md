@@ -35,8 +35,8 @@
 
 <table>
   <tr>
-    <img src="https://tinyurl.com/pmdcbacn" height="150" align="left"/>
-    <img src="https://tinyurl.com/5p3hhhv8" height="150" align="center"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuszdorobek&layout=compact&hide=html" height="150" align="left"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=mateuszdorobek&show_icons=true" height="150" align="center"/>
   </tr>
 </table>
 
